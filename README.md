@@ -1,0 +1,1 @@
+Linear algebra basics combined with computational algorithms for programming implemenation. Unfortunately, I threw in the towel after 7 of 12 weeks as it was far more algo than I ever was interested in.  Taught by LAFF gurus at U of Austin.
